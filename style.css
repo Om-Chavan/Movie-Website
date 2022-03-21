@@ -1,0 +1,16 @@
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: 10px solid red;
+    border-radius: 10px;
+}
+p{
+    border:solid;
+}
+
+.dragon{
+    margin-block: 20px;
+    border:5px solid;
+}
